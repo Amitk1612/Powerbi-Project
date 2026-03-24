@@ -4,7 +4,7 @@ Here’s a clear, practical guide to what a **Power BI GitHub project** should c
 
 ---
 
-# 📊 Power BI GitHub Project – Full Details
+# 📊 Power BI Projects – Full Details
 
 ## 🔹 1. Project Overview (README section)
 
